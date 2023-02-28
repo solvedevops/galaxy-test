@@ -1,0 +1,6 @@
+---
+collections:
+        - name: amazon.aws
+          src: amazon.aws
+        - name: google.cloud
+          src: google.cloud
